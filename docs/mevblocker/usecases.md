@@ -1,6 +1,6 @@
 # Use cases
 
-MEV Blocker is your personal protection from frontrunning and sandwich attacks for a broad spectrum of Ethereum transactions and use cases. Here are some examples where MEV Blocker might work at its finest.
+MEV Blocker is your personal protection from frontrunning and sandwich attacks for a broad spectrum of Ethereum transactions and use cases. Here are some examples where MEV Blocker might be most useful.
 
 ## Intent Based DEXs 
 

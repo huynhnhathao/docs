@@ -6,7 +6,7 @@ MEV Blocker is your personal protection from frontrunning and sandwich attacks f
 
 Intent-based DEXs, such as the CoW Protocol, utilize an off-chain competition among solvers to secure better settlement prices for their users. These solvers, tasked with identifying the most efficient transaction paths, are responsible for submitting transactions on-chain on the user's behalf.
 
-MEV Blocker serves as a critical tool for safeguarding these transactions from manipulation by MEV bots. By integrating MEV Blocker, solvers can ensure their transactions are protected from being frontrun or sandwiched, while also benefiting from additional assurances such as no reverts. Moreover, they can capture up to 90% of the backrun value their transactions might generate, thereby creating an alternative revenue stream beyond the solver competition.
+MEV Blocker serves as a critical tool for safeguarding these transactions from manipulation by MEV bots. By integrating MEV Blocker, solvers can ensure their transactions are protected from being frontrun or sandwiched, while also benefiting from additional assurances such as no reverts. Moreover, they can capture up to 90% of the backrun value user transactions might generate, thereby creating an alternative revenue stream beyond the solver competition.
 
 ## Oracle Extractable Value 
 
